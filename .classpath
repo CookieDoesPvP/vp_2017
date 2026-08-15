@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="S:/Plugins for Eclipse/Spigot 1.8.8.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/Citizens(3).jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/commons-configuration.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/commons-io.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/commons-logging.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/ProtocolLib (3).jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/Vault.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/VectorCore.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/worldedit-bukkit-6.1.7.3.jar"/>
+	<classpathentry kind="lib" path="S:/Plugins for Git/worldguard-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/twixy/Desktop/Schematics - Server Stuff/Gangs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/twixy/Desktop/Schematics - Server Stuff/Guards.jar"/>
+	<classpathentry kind="lib" path="C:/Users/twixy/Desktop/Schematics - Server Stuff/HolographicDisplays.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

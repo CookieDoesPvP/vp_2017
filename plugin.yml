@@ -1,0 +1,39 @@
+name: VectorPrisonGame
+version: 1.0
+main: com.vectorprison.VectorPrison
+depend: [WorldGuard, WorldEdit, PermissionsEx, VectorCore, Vault, ProtocolLib, Guards]
+commands:
+  money:
+    description: Check your balance.
+    aliases: [balance, bal, ebalance, ebal, emoney]
+  economy:
+    description: Manage player balances.
+    aliases: [eco, eeco]
+  pay:
+    description: Pays another player money from your balance.
+    aliases: [epay]
+  addexpbooster:
+    description: Add exp boosters.
+    aliases: [addxpbooster]
+  expbooster:
+    description: Show your boosters.
+    aliases: [xpbooster, expboosters, xpboosters]
+  save:
+    description: Saves the balance and levels of all online players.
+    aliases: [savemoney, savelevels]
+  update:
+    description: Updates the items of all online players.
+    aliases: [updateall, updatelevelingitems, updateitems]
+  levelingitem:
+    description: Access leveling item commands.
+    aliases: [lvlingitem, levelingitems, lvlingitems]
+  setxp:
+    aliases: [setexp]
+  mutec:
+    aliases: [mutechat, chatmute]
+  clearc:
+    aliases: [clearchat, cc, "cchat"]
+  staff:
+    aliases: [who, list, stafflist]
+  base:
+    aliases: [bases, basemanager, basetp]

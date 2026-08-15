@@ -1,0 +1,39 @@
+prefix: '&b&l&oV&f&l&oN &f&l> &r'
+no permission: '&cYou are not a high enough rank to do this.'
+
+money:
+  balance: '&8<player> has &2&l$<money>&8 with a total of &a&l$<total>&8 all time.'
+  added: '&2&l+ $<money>'
+  subtracted: '&2&l- $<money>'
+  added multiplier: '&2&l+ $<money> &8(&e<multiplier>x&8)'
+
+admin:
+  money given: '&2&l$<amount> &8was given to &2&l<player>&8.'
+  money taken: '&2&l$<amount> &8was taken away from &2&l<player>&8.'
+  money set: '&8The balance of &2&l<player> &8was set to &2&l<amount>&8.'
+  money reset: '&8The balance and total of &2&l<player> &8was reset to &2&l<amount>&8.'
+
+pay:
+  incorrect usage: '&cIncorrect usage! Use &2/pay <player> <amount>&c.'
+  not enough: '&cYou do not have &2&l<amount> &cto give away.'
+  no paying yourself: '&cYou cannot pay yourself.'
+  successful: '&2&l$<amount> &8was paid to &2&l<player>&8.'
+
+misc:
+  highest level: 'You have reached the current level cap. &c&lCongratulations!'
+  player not found: '&cThat player could not be found.'
+  inventory full: '&c&lYour inventory is full!'
+  can rankup: '&c&lYou have enough money to reach the next level. Just type &e&l/rankup&c&l!'
+
+wait:
+  join: '&fPlease wait &4&l<time> &fsecond(s) before joining.'
+  chat: '&fPlease wait &4&l<time> &fsecond(s) before chatting.'
+  farming: '&fYou will not earn levels from this player for another &4&l<time> &fsecond(s).'
+
+pickaxe:
+  notenough: '&fYou do not have enough money to purchase this tool. You need &b<amount>.'
+
+sell:
+  empty_inv: '&bYou do not have any &3sellable &bitems.'
+  sold_msg: '&bYou have sold all your items for &3$%total%&b!'
+  sold_msg_taxed: '&bYou have sold all your items for &3$%total%&b! &c&l(50% Tax)'
